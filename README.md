@@ -1,5 +1,2 @@
-TWRP device tree for Xiaomi Redmi 5 (rosy)
+TWRP device tree for Meizu 15 Lite
 ========================================================
-
-For building TWRP for MSM8953 models only.
-# twrp_device_Meizu_15Lite
